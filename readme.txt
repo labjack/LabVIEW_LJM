@@ -1,6 +1,3 @@
-# LabVIEW_LJM
-This is the public repository for LabVIEW code to use the LabJack LJM library.
-
 LabVIEW_LJM - LabVIEW drivers/examples for LJM
 support@labjack.com
 
