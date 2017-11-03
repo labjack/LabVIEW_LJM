@@ -1,10 +1,10 @@
 LabVIEW_LJM - LabVIEW drivers/examples for LJM
 support@labjack.com
 
-May 29th, 2015
+May 17th, 2017
 
 Compatible with LabVIEW 7.1 or higher.  Requires the
-LabJack UD driver.
+LabJack M (LJM) driver.
 
 Note that National Instruments provides a driver called NI-DAQ
 for their hardware.  We have to provide our own library, called
