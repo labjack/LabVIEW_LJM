@@ -1,7 +1,7 @@
 LabVIEW_LJM - LabVIEW drivers/examples for LJM
 support@labjack.com
 
-February 1st, 2018
+June 28th, 2018
 
 Compatible with LabVIEW 7.1 or higher.  Requires the
 LabJack M (LJM) driver.
