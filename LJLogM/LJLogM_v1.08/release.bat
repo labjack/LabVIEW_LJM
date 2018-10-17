@@ -1,0 +1,1 @@
+copy LJLogM.exe "C:\Program Files (x86)\LabJack\Applications"
