@@ -28,7 +28,7 @@ dir.mnu file, and a few subfolders.  The folder can be stored
 anywhere, but if you want icons to show up on the LabVIEW function
 palette (after restarting LabVIEW), place this folder under:
 
-...\national instruments\labview #\user.lib
+...\national instruments\labview #\vi.lib\addons\
 
 If the function palette icons are not required, put the LabVIEW_LJM
 folder wherever you want.  We have found that most people, including
