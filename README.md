@@ -4,7 +4,7 @@ This is the public repository for LabVIEW code to use the LabJack LJM library.
 LabVIEW_LJM - LabVIEW drivers/examples for LJM
 support@labjack.com
 
-May 29th, 2015
+March 16, 2021
 
 Compatible with LabVIEW 7.1 or higher.  Requires the
 LabJack UD driver.
